@@ -1,0 +1,6 @@
+com\cgs\loyalty\StarLoyaltyProgramApplication.class
+com\cgs\loyalty\service\customer\LoyaltyCustomerServiceImp.class
+com\cgs\loyalty\service\customer\LoyaltyCustomerService.class
+com\cgs\loyalty\controller\rest\CustomerRestController.class
+com\cgs\loyalty\entity\customer\LoyaltyCustomerDetails.class
+com\cgs\loyalty\repository\LoyaltyCustomerRepository.class
